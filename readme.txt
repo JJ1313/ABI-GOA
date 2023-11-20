@@ -1,3 +1,5 @@
+Algoritmo GOA implementado por Rodrigo Vasquez y Heinz Beckers.
+
 El presente proyecto está dividido en diferentes carpetas las cuales son las siguientes:
 
 1. BD: 
